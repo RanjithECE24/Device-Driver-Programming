@@ -1,1 +1,1 @@
-Device Driver Examples for Linux Platform
+Device Driver Examples for Native Linux Machine
